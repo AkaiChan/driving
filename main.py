@@ -6,3 +6,8 @@ if strcountry == "Taiwan":
 		print("You can go test of driving exam")
 	else:
 		print("You cannot go test of driving exam")
+elif strcountry == "US":
+	if intAge >= 16:
+		print("You can go test of driving exam")
+	else:
+		print("You cannot go test of driving exam")
