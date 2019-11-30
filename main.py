@@ -11,3 +11,5 @@ elif strcountry == "US":
 		print("You can go test of driving exam")
 	else:
 		print("You cannot go test of driving exam")
+else: 
+	print("only you can input is US or Taiwan")
